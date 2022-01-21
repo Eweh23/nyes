@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.AssemblyInfo.cs
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\Kod.exe
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\Kod.deps.json
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\Kod.runtimeconfig.json
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\Kod.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\Kod.dll
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\ref\Kod.dll
+C:\Users\Admin\Documents\Kod\bin\Debug\net5.0\Kod.pdb
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.dll
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\ref\Kod.dll
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.pdb
+C:\Users\Admin\Documents\Kod\obj\Debug\net5.0\Kod.genruntimeconfig.cache
